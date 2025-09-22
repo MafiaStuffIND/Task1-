@@ -1,0 +1,8 @@
+Learned wireshark and nmap
+So for Nmap: 
+I started it by downloading it from offical website
+then i opened cmd in my windows laptop 
+searched ipconfig got my ip address
+put the ip address in nmap and scanned used the command nmap -sS 192.168.x.xxx
+then i used the tcp ports i got to scan in wireshark 
+then saved all the open ports 
